@@ -31,7 +31,7 @@ __Week_6__:
 Python MultiThreading, MultiProcessing, Async
 
 __Week_7__:
-Python MultiThreading, MultiProcessing, Async
+Python MultiThreading, MultiProcessing, Async by Example
 
 __Week_8__:
 Tornado
