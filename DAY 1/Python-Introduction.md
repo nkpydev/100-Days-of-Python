@@ -64,3 +64,19 @@ Python 2 is an Older version, of which future development has been stalled. Stil
 Python 3, not only is a better version of Python 2, although being similar too; but is almost a new language, with much rich features.
 
 Mostly all new development is taking place in Python 3.
+
+
+### Who maintains all this?
+
+Apart from versions 2 and 3 there are many other versions of Python.
+
+**_PSF (Python Software Foundation)_** maintains **CPython**, which is the original Canonical, or reference Python.
+Cpython - Guido van Rossum used "C" language to implement Python and till date this is in force.
+
+All versions of Python coming from **_PSF_** are written in "C" language.
+
+Reason for "C"; easily portable on any platform, as virtually all platforms (Windows, Linux, Mac) can compile and run Python with ease.
+
+**Jython**, is an version of Python written entirely in _Java_.
+
+**PyPy**, Python written in _Python_.
