@@ -17,12 +17,12 @@ We will try to learn multiple things in 100 days,
 | 3 | MongoDB |
 | 4 | Python Advance [MutiThreading, MultiProcessing, Async]| 
 | 5 | Python Advance with Example | 
-| 6 | Django Basics | 
-| 7 | Django with Example |
-| 8 | Tornado | 
-| 9 | WebFrameWork Project | 
-| 10 | Selenium Basics | 
-| 11 | Selenium + Python + Automation with Example |
-| 12 | WebScrapping Basics |
-| 13 | WebScrapping Project |
-| 14 | Python GUI Basics |
+| 6 | Tornado | 
+| 7 | WebFrameWork Project | 
+| 8 | Selenium Basics | 
+| 9 | Selenium + Python + Automation with Example |
+| 10 | WebScrapping Basics |
+| 11 | WebScrapping Project |
+| 12 | Django Basics |
+| 13 | Django Intermediate |
+| 14 | Django Project |
